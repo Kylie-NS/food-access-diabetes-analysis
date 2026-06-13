@@ -160,7 +160,7 @@ Regional stratification further revealed that the relationship between infrastru
 <p align="center">
   <img src="tableau_dashboard_southwest.png" alt="Southwest Cohort Analysis" width="85%">
   <br>
-  <i>Figure 3: Southwest Regional Cohort — Visualizing Baseline Compression and Downward Intercept Shift</i>
+  <i>Figure 3: Southwest Regional Cohort: Visualizing Baseline Compression and Downward Intercept Shift</i>
 </p>
 
 ---
