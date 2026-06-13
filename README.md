@@ -239,10 +239,6 @@ https://public.tableau.com/views/USInfrastructureBarriersRegionalDiabetesRisk_tw
 ```text
 food-access-diabetes-analysis/
 │
-├── data/
-│   ├── StateAndCountyData
-│   └── PLACES__Local_Data_for_Better_Health,_County_Data,_2025_release_20260522
-│
 ├── 01_data_extraction.sql
 ├── 02_exploratory_analysis.ipynb
 ├── 03_food_access_diabetes_model_output
