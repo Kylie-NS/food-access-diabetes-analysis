@@ -3,14 +3,11 @@
 ### Spatial Disparities in Public Health: Infrastructure Isolation and Diabetes Prevalence Across U.S. Counties
 
 ## Dashboard Preview
-
-### National Infrastructure Isolation Map
 <p align="center">
   <img src="tableau_dashboard_national.png" alt="Tableau Public Health Dashboard National View" width="90%">
+  <br>
+  <i>Figure 1: National Interactive BI Dashboard — Mapping Infrastructure Barriers vs. Crude Diabetes Prevalence</i>
 </p>
-
-### Diabetes Prevalence vs. Infrastructure Isolation
-[Image]
 
 ## Executive Summary
 
@@ -151,6 +148,10 @@ Regional analysis identified two notable clusters with elevated infrastructure i
 Both regions exceeded national median levels of infrastructure isolation (2.55%) and diabetes prevalence (13.20%).
 
 Regional stratification further revealed that the relationship between infrastructure isolation and diabetes prevalence was stronger in the Southeast/Appalachia cohort than in the Southwest cohort, suggesting that the impact of transportation-related food access barriers may vary across geographic regions.
+
+## Dashboard Preview
+
+### Regional 
 
 ---
 
