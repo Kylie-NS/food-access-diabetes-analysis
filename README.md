@@ -6,7 +6,7 @@
 <p align="center">
   <img src="tableau_dashboard_national.png" alt="Tableau Public Health Dashboard National View" width="90%">
   <br>
-  <i>Figure 1: National Interactive BI Dashboard — Mapping Infrastructure Barriers vs. Crude Diabetes Prevalence</i>
+  <i>Figure 1: National Interactive BI Dashboard: Mapping Infrastructure Barriers vs. Crude Diabetes Prevalence</i>
 </p>
 
 ## Executive Summary
@@ -151,7 +151,17 @@ Regional stratification further revealed that the relationship between infrastru
 
 ## Dashboard Preview
 
-### Regional 
+<p align="center">
+  <img src="tableau_dashboard_southeast_appalachia.png" alt="Southeast and Appalachian Cohort Analysis" width="85%">
+  <br>
+  <i>Figure 2: Southeast & Appalachian Cohort: Visualizing the Elevated Vertical Metabolic Risk Plane</i>
+</p>
+
+<p align="center">
+  <img src="tableau_dashboard_southwest.png" alt="Southwest Cohort Analysis" width="85%">
+  <br>
+  <i>Figure 3: Southwest Regional Cohort — Visualizing Baseline Compression and Downward Intercept Shift</i>
+</p>
 
 ---
 
