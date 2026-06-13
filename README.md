@@ -5,7 +5,9 @@
 ## Dashboard Preview
 
 ### National Infrastructure Isolation Map
-[Image]
+<p align="center">
+  <img src="tableau_dashboard_national.png" alt="Tableau Public Health Dashboard National View" width="90%">
+</p>
 
 ### Diabetes Prevalence vs. Infrastructure Isolation
 [Image]
